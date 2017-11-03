@@ -1,2 +1,3 @@
 # hello-world
-hello,the world without you!
+你好，没有你的世界！
+苟利国家生死以，岂因祸福避趋之
